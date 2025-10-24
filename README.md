@@ -6,9 +6,13 @@
 ---
 
 🎓 MS in Computer Science @ **Florida Atlantic University**  
-🚀 Building **RAG systems**, **multi-agent AI**, and **optimized LLM inference pipelines**  
+
+🚀 Building **RAG systems**, **multi-agent AI**, and **optimized LLM inference pipelines** 
+
 🧩 I focus on turning **AI research into production-grade systems** with measurable impact  
+
 🤝 Open to collaborations in **Generative AI**, **MLOps**, and **Agentic AI frameworks**  
+
 💡 *“Building systems that think, explain, and act responsibly.”*
 
 ---
@@ -29,14 +33,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-</p>
-
-<p align="center">
-  <b>Programming & Frameworks:</b> Python · PyTorch · TensorFlow · Scikit-learn · Hugging Face Transformers · LlamaIndex · Llama Stack · LangChain · LangGraph  
-  <br><br>
-  <b>LLMs & AI Systems:</b> Llama 3.1 · DeepSeek-R1 · Qwen2.5 · OpenAI APIs · Agentic AI · RAG pipelines · Prompt Engineering · Multi-Agent Orchestration · MCP (Model Context Protocol) · PostgreSQL + pgvector · Hybrid Search  
-  <br><br>
-  <b>Cloud & Deployment:</b> FastAPI · Docker · AWS (ECS, EC2, S3, CloudWatch) · Streamlit · GitHub · CI/CD  
 </p>
 
 ---
