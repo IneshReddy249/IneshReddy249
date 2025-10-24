@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Inesh Reddy Chappidi  
-**AI Engineer · Machine Learning · LLMs · MLOps · Agentic AI**
+**AI Engineer | ML & LLM Systems | MLOps | LLM Inference Optimization | Agentic AI
+Designing scalable AI pipelines — from fine-tuning to inference and real-world deployment.**
 
 📍 Boca Raton, FL | ✉️ ineshreddy249@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/inesh-reddy)
 
