@@ -8,14 +8,25 @@
 🎓 **Currently pursuing my M.S. in Computer Science** at *Florida Atlantic University*.  
 🚀 Building **LLM-based AI systems**, focusing on *RAG pipelines, Multi-Agent AI, and model optimization*.  
 🧩 Passionate about **bridging research and real-world applications** through scalable AI systems.  
-⚙️ Skilled in **LangChain, LangGraph, PyTorch, TensorFlow, FastAPI, Docker, and AWS**.  
-📊 Exploring **Responsible AI, Explainability, and High-Performance Inference (vLLM, TensorRT-LLM)**.  
-🤝 Open to collaborations in **Generative AI, MLOps, and AI Agent frameworks**.  
+🤝 Open to collaborations in **Generative AI, MLOps, and Agentic AI frameworks**.  
 💡 Motto: *“Build systems that think, explain, and act responsibly.”*  
 
 ---
 
 ### 🔧 Languages and Tools
+
+● **Programming & Frameworks:**  
+Python, PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers,  
+LlamaIndex, Llama Stack, LangChain, LangGraph  
+
+● **LLMs & AI Systems:**  
+Llama 3.1, DeepSeek-R1, Qwen 2.5, OpenAI APIs, Agentic AI,  
+RAG Pipelines, Prompt Engineering, Multi-Agent Orchestration,  
+MCP (Model Context Protocol), PostgreSQL + pgvector, Hybrid Search  
+
+● **Cloud & Deployment:**  
+FastAPI, Docker, AWS (ECS, EC2, S3, CloudWatch), Streamlit, GitHub, CI/CD  
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
@@ -26,6 +37,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
 </p>
 
 ---
@@ -39,12 +51,11 @@
 ---
 
 ### ✨ Fun Facts
-- 🧠 Love experimenting with **LLM orchestration and AI agents**.  
-- ☕ Fuelled by late-night coding and black coffee.  
-- 🎮 Enjoy strategy games and **competitive chess** in free time.  
-- 📚 Currently reading *“Deep Learning with Python”* (François Chollet).  
-- 🌱 Always learning something new — currently mastering **TensorRT-LLM and vLLM optimization**.
+- 🧠 Exploring **LLM inference optimization** and multi-agent orchestration.  
+- ☕ Coffee-powered coding at 2 AM is my usual routine.  
+- 🎮 Enjoy **chess and strategic gaming** in downtime.  
+- 📚 Currently diving deep into **TensorRT-LLM** and **RAG performance tuning**.  
 
 ---
 
-> _“AI isn’t magic — it’s engineering done right.”_
+> _“AI isn’t about replacing humans — it’s about scaling intelligence responsibly.”_
