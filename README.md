@@ -1,31 +1,27 @@
 # 👋 Hi, I'm Inesh Reddy Chappidi
+**AI Engineer · ML · LLMs · MLOps · Agentic AI**
 
-**AI Engineer | Machine Learning | LLMs | MLOps | Agentic AI Systems**  
-📍 Boca Raton, FL | ✉️ ineshreddy249@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/inesh-reddy)
-
----
-
-🎓 **Currently pursuing my M.S. in Computer Science** at *Florida Atlantic University*.  
-🚀 Building **LLM-based AI systems**, focusing on *RAG pipelines, Multi-Agent AI, and model optimization*.  
-🧩 Passionate about **bridging research and real-world applications** through scalable AI systems.  
-🤝 Open to collaborations in **Generative AI, MLOps, and Agentic AI frameworks**.  
-💡 Motto: *“Build systems that think, explain, and act responsibly.”*  
+📍 Boca Raton, FL · ✉️ ineshreddy249@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/inesh-reddy)
 
 ---
 
-### 🔧 Languages and Tools
+🎓 MS in Computer Science @ Florida Atlantic University  
+🚀 Building RAG systems, multi-agent AI, and high-performance LLM inference  
+🧩 I turn research ideas into deployed, measurable systems  
+🤝 Open to collabs in GenAI, MLOps, agent frameworks  
+💡 Motto: *Build systems that think, explain, and act responsibly.*
 
+---
+
+### 🔧 Languages & Tools
 ● **Programming & Frameworks:**  
-Python, PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers,  
-LlamaIndex, Llama Stack, LangChain, LangGraph  
+Python, PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, LlamaIndex, Llama Stack, LangChain, LangGraph
 
 ● **LLMs & AI Systems:**  
-Llama 3.1, DeepSeek-R1, Qwen 2.5, OpenAI APIs, Agentic AI,  
-RAG Pipelines, Prompt Engineering, Multi-Agent Orchestration,  
-MCP (Model Context Protocol), PostgreSQL + pgvector, Hybrid Search  
+Llama 3.1, DeepSeek-R1, Qwen2.5, OpenAI APIs, Agentic AI, RAG pipelines, prompt engineering, multi-agent orchestration, MCP (Model Context Protocol), PostgreSQL + pgvector, Hybrid Search
 
 ● **Cloud & Deployment:**  
-FastAPI, Docker, AWS (ECS, EC2, S3, CloudWatch), Streamlit, GitHub, CI/CD  
+FastAPI, Docker, AWS (ECS, EC2, S3, CloudWatch), Streamlit, GitHub, CI/CD
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
@@ -42,7 +38,7 @@ FastAPI, Docker, AWS (ECS, EC2, S3, CloudWatch), Streamlit, GitHub, CI/CD
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IneshReddy249&show_icons=true&theme=tokyonight&hide_border=true" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IneshReddy249&theme=tokyonight&hide_border=true" height="150">
@@ -50,12 +46,4 @@ FastAPI, Docker, AWS (ECS, EC2, S3, CloudWatch), Streamlit, GitHub, CI/CD
 
 ---
 
-### ✨ Fun Facts
-- 🧠 Exploring **LLM inference optimization** and multi-agent orchestration.  
-- ☕ Coffee-powered coding at 2 AM is my usual routine.  
-- 🎮 Enjoy **chess and strategic gaming** in downtime.  
-- 📚 Currently diving deep into **TensorRT-LLM** and **RAG performance tuning**.  
-
----
-
-> _“AI isn’t about replacing humans — it’s about scaling intelligence responsibly.”_
+> *“AI isn’t magic — it’s engineering done right.”*
