@@ -1,44 +1,38 @@
 # 👋 Hi, I'm Inesh Reddy Chappidi  
-**AI Engineer | ML & LLM Systems | MLOps | LLM Inference Optimization | Agentic AI
-Designing scalable AI pipelines — from fine-tuning to inference and real-world deployment.**
+**AI Engineer | LLM Inference Optimization | RAG & Agentic Systems | MLOps**
 
-📍 Boca Raton, FL | ✉️ ineshreddy249@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/inesh-reddy)
-
----
-
-🎓 MS in Computer Science @ **Florida Atlantic University**  
-
-🚀 Building **RAG systems**, **multi-agent AI**, and **optimized LLM inference pipelines** 
-
-🧩 I focus on turning **AI research into production-grade systems** with measurable impact  
-
-🤝 Open to collaborations in **Generative AI**, **MLOps**, and **Agentic AI frameworks**  
-
-💡 *“Building systems that think, explain, and act responsibly.”*
+📍 Boca Raton, FL | ✉️ ineshreddy249@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/inesh-reddy)
 
 ---
 
-### 🔧 Languages & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/LangChain-0A192F?logo=chainlink&logoColor=white">
-  <img src="https://img.shields.io/badge/LangGraph-2E8B57?logo=graphite&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-</p>
+🎓 MS in Computer Science @ **Florida Atlantic University** (Dec 2025)  
+🔬 Focused on **LLM inference optimization, RAG systems, and multi-agent AI**  
+⚙️ Building **production-grade AI systems** with real GPU benchmarks and cloud deployment  
+🚀 Open to roles and collaborations in **LLM Inference, AI Infrastructure, and Agentic AI**
 
 ---
 
-### 📈 GitHub Stats  
+## 🔧 Core Technologies
+
+**Programming & ML:** Python, PyTorch, C++, Scikit-learn  
+**LLM Inference & GPU:** TensorRT-LLM, CUDA 12.x, Speculative Decoding, INT8 / FP16, Fused CUDA Kernels, Flash Attention, Context-FMHA, NVIDIA A100  
+**LLMs, RAG & Agents:** Llama-3, Qwen2.5, RAG Pipelines, LangChain, LangGraph, LlamaIndex, MCP, Multi-Agent Orchestration  
+**Cloud & Deployment:** FastAPI, Docker, Kubernetes, AWS (ECS, RDS, S3, CloudWatch)  
+**Vector Databases:** PostgreSQL + pgvector, ChromaDB, FAISS  
+
+---
+
+## 📌 What I Work On
+
+- **LLM inference optimization on NVIDIA GPUs (A100)** using TensorRT-LLM  
+- **Speculative Decoding & engine-level performance tuning**  
+- **Secure RAG systems for healthcare and enterprise use cases**  
+- **Multi-agent AI systems with tool calling and memory**  
+- **End-to-end deployment using FastAPI, Docker, and AWS ECS**
+
+---
+
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IneshReddy249&show_icons=true&theme=tokyonight&hide_border=true" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IneshReddy249&theme=tokyonight&hide_border=true" height="150">
@@ -46,4 +40,7 @@ Designing scalable AI pipelines — from fine-tuning to inference and real-world
 
 ---
 
-<p align="center"><i>“AI isn’t magic — it’s engineering done right.”</i></p>
+📫 **Contact:** ineshreddy249@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/inesh-reddy  
+
+*“AI isn’t magic — it’s engineering done right.”*
