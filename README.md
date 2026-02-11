@@ -27,7 +27,3 @@ I optimize LLM inference performance on NVIDIA A100/H100 GPUs using TensorRT-LLM
 **Infrastructure:** Docker, Kubernetes, FastAPI, AWS, Prometheus
 
 ---
-
-## Pinned Projects
-
-👇 **Check out my repositories below for implementation details and benchmarks**
